@@ -27,3 +27,9 @@ If a question is answered incorrectly, additional time is subtracted from the ti
 The timer stops when all questions have been answered or the timer reaches 0.
 
 After the game ends, the user can save their initials and score to a highscores view using local storage
+
+
+# 
+![Screenshot 1](assets/images/screenshot1.png)
+# 
+![Screenshot 2](assets/images/screenshot2.png)
