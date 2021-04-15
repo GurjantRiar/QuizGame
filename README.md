@@ -33,3 +33,8 @@ After the game ends, the user can save their initials and score to a highscores 
 ![Screenshot 1](assets/images/screenshot1.png)
 # 
 ![Screenshot 2](assets/images/screenshot2.png)
+
+## Contributors
+[Gurjant Riar](https://github.com/GurjantRiar/QuizGame/)
+
+[Github Profile](https://github.com/GurjantRiar/)
